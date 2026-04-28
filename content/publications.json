@@ -1,0 +1,403 @@
+{
+  "sections": [
+    {
+      "id": "journal-articles",
+      "title": "Journal articles"
+    },
+    {
+      "id": "book-chapters",
+      "title": "Book chapters"
+    },
+    {
+      "id": "work-in-progress",
+      "title": "Work in progress"
+    },
+    {
+      "id": "in-swedish",
+      "title": "In Swedish"
+    },
+    {
+      "id": "op-eds",
+      "title": "Op-eds"
+    },
+    {
+      "id": "blog-posts",
+      "title": "Public-facing writing"
+    }
+  ],
+  "items": [
+    {
+      "section": "journal-articles",
+      "title": "What is the Cost of Privatizations for Workers?",
+      "authors": "Martin Olsson and Joacim Tåg",
+      "venue": "The Journal of Finance, Vol. 80, No. 4, 2107-2151, 2025",
+      "year": 2025,
+      "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1111/jofi.13462"
+        }
+      ],
+      "sort_key": "2025-090"
+    },
+    {
+      "section": "journal-articles",
+      "title": "Taxes, Childcare and Gender Identity Norms",
+      "authors": "Andrea Ichino, Martin Olsson, Barbara Petrongolo, and Peter Skogman Thoursie",
+      "venue": "Journal of Labor Economics, Forthcoming, 2025",
+      "year": 2025,
+      "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1086/732773"
+        }
+      ],
+      "sort_key": "2025-080"
+    },
+    {
+      "section": "journal-articles",
+      "title": "Earnings Losses and the Role of the Welfare State During the COVID-19 Pandemic: Evidence from Sweden",
+      "authors": "Adrian Adermon, Lisa Laun, Patrik Lind, Martin Olsson, Jan Sauermann, and Anna Sjögren",
+      "venue": "Review of Income and Wealth, Vol. 70, No. 3, 267–408, 2024",
+      "year": 2024,
+      "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1111/roiw.12670"
+        }
+      ],
+      "sort_key": "2024-090"
+    },
+    {
+      "section": "journal-articles",
+      "title": "Talent Development and Labour Market Integration in European Football",
+      "authors": "Pehr-Johan Norbäck, Martin Olsson, and Lars Persson",
+      "venue": "The World Economy, Vol. 44, No. 3, 367–408, 2021",
+      "year": 2021,
+      "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1111/twec.13071"
+        }
+      ],
+      "sort_key": "2021-090"
+    },
+    {
+      "section": "journal-articles",
+      "title": "Are Foreign Private Equity Buyouts Bad for Workers?",
+      "authors": "Martin Olsson and Joacim Tåg",
+      "venue": "Economics Letters, Vol. 172, 1–4, 2018",
+      "year": 2018,
+      "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1016/j.econlet.2018.08.002"
+        }
+      ],
+      "sort_key": "2018-090"
+    },
+    {
+      "section": "journal-articles",
+      "title": "Private Equity, Layoffs and Job Polarization",
+      "authors": "Martin Olsson and Joacim Tåg",
+      "venue": "Journal of Labor Economics, Vol. 33, No. 3, 697–754, 2017",
+      "year": 2017,
+      "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1086/690712"
+        }
+      ],
+      "sort_key": "2017-090"
+    },
+    {
+      "section": "journal-articles",
+      "title": "Direct and Cross Effects of Employment Protection – The Case of Parental Childcare",
+      "authors": "Martin Olsson",
+      "venue": "Scandinavian Journal of Economics, Vol. 119, No. 4, 1105–1128, 2017",
+      "year": 2017,
+      "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1111/sjoe.12193"
+        }
+      ],
+      "sort_key": "2017-080"
+    },
+    {
+      "section": "journal-articles",
+      "title": "Sickness Insurance and Spousal Labour Supply",
+      "authors": "Martin Olsson and Peter Skogman Thoursie",
+      "venue": "Labour Economics, Vol. 33, 41–54, 2015",
+      "year": 2015,
+      "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1016/j.labeco.2015.02.005"
+        }
+      ],
+      "sort_key": "2015-090"
+    },
+    {
+      "section": "journal-articles",
+      "title": "Employment Protection and Sickness Absence",
+      "authors": "Martin Olsson",
+      "venue": "Labour Economics, Vol. 16, No. 2, 208–221, 2009",
+      "year": 2009,
+      "links": [
+        {
+          "label": "DOI",
+          "url": "https://doi.org/10.1016/j.labeco.2009.02.001"
+        }
+      ],
+      "sort_key": "2009-090"
+    },
+    {
+      "section": "book-chapters",
+      "title": "From Wall Street to Work Floor: How Private Equity Buyouts Affect Workers",
+      "authors": "Martin Olsson and Joacim Tåg",
+      "venue": "In B. Broughman & E. de Fontenay (eds.), Research Handbook on the Structure of Private Equity and Venture Capital. Cheltenham: Edward Elgar Publishing, Forthcoming, 2024",
+      "year": 2024,
+      "links": [
+        {
+          "label": "Link",
+          "url": "https://www.ifn.se/en/publications/book-chapters/accepted-book-chapters/2024-from-wall-street-to-work-floor-how-private-equity-buyouts-affect-workers/"
+        }
+      ],
+      "sort_key": "2024-090"
+    },
+    {
+      "section": "journal-articles",
+      "title": "Pre-AI Sorting, Post-AI Inequality: Generative AI and the Gender Wage Gap",
+      "authors": "Malin Gardberg, Fredrik Heyman, Martin Olsson, and Joacim Tåg",
+      "venue": "Oxford Bulletin of Economics and Statistics",
+      "year": 2025,
+      "status": "Accepted",
+      "links": [
+        {
+          "label": "Link",
+          "url": "https://www.ifn.se/en/publications/working-papers/2025/1534/"
+        }
+      ],
+      "sort_key": "2025-090"
+    },
+    {
+      "section": "work-in-progress",
+      "title": "Family Firms: In All Shapes and Sizes",
+      "authors": "Emma Gunnarsson, Anders Kärnä, Martin Olsson, and Lars Persson",
+      "venue": "IFN Working Paper, No. 1461, 2023",
+      "year": 2023,
+      "links": [
+        {
+          "label": "Link",
+          "url": "https://www.ifn.se/en/publications/working-papers/2023/1461/"
+        }
+      ],
+      "sort_key": "2023-090"
+    },
+    {
+      "section": "work-in-progress",
+      "title": "Long-Run Effects of Technological Change: The Impact of Automation and Robots on Intergenerational Mobility",
+      "authors": "Fredrik Heyman and Martin Olsson",
+      "venue": "IFN Working Paper, No. 1443, 2022",
+      "year": 2022,
+      "links": [
+        {
+          "label": "Link",
+          "url": "https://www.ifn.se/en/publications/working-papers/2022/1451/"
+        }
+      ],
+      "sort_key": "2022-090"
+    },
+    {
+      "section": "in-swedish",
+      "title": "Hur påverkas företag och anställda av privatisering",
+      "authors": "Martin Olsson and Joacim Tåg",
+      "venue": "Ekonomisk Debatt, Vol. 53, No. 4, 21-32, 2025",
+      "year": 2025,
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://www.ifn.se/media/yrcjmoys/2025-tag-olsson-hur-paverkas-foretag-och-anstallda.pdf"
+        }
+      ],
+      "sort_key": "2025-090"
+    },
+    {
+      "section": "in-swedish",
+      "title": "Exponering mot generativ AI i Sverige – en kartläggning",
+      "authors": "Malin Gardberg, Fredrik Heyman, Martin Olsson, and Joacim Tåg",
+      "venue": "Ekonomisk debatt, Vol. 52, No. 6, 17-32, 2024",
+      "year": 2024,
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://www.ifn.se/media/1j4ddlcn/2024-gardberg-heyman-olsson-tåg-exponering-mot-generativ-ai-i-sverige-en-kartläggning.pdf"
+        }
+      ],
+      "sort_key": "2024-090"
+    },
+    {
+      "section": "in-swedish",
+      "title": "Coronapandemin, arbetsinkomsterna and välfärdssystemets skyddsgrad. Befolkningens inkomstutveckling under 2020",
+      "authors": "Adrian Adermon, Lisa Laun, Patrik Lind, Martin Olsson, Jan Sauermann, and Anna Sjögren",
+      "venue": "Underlagsrapport till SOU 2022:10 Sverige under pandemin. Stockholm: Coronakommissionen, 2022",
+      "year": 2022,
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://www.regeringen.se/globalassets/regeringen/block/fakta-och-genvagsblock/socialdepartementet/sjukvard/coronakommissionen/coronapandemin-arbetsinkomsterna-och-valfardssystemets-skyddsgrad.pdf"
+        }
+      ],
+      "sort_key": "2022-090"
+    },
+    {
+      "section": "in-swedish",
+      "title": "Familjeföretagens betydelse för motståndskraften och omställningskraften i näringslivet",
+      "authors": "Anders Kärnä, Dagmar Müller, Pehr-Johan Norbäck, Martin Olsson, and Lars Persson",
+      "venue": "Ekonomisk Debatt, Vol. 50, No. 7, 14–26, 2022",
+      "year": 2022,
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://www.ifn.se/media/r4vmghfr/2022-kärnä-muller-norbäck-olsson-persson-familjeföretagens-betydelse-för-motståndskraften-och-omställningskraften-i-näringslivet.pdf"
+        }
+      ],
+      "sort_key": "2022-080"
+    },
+    {
+      "section": "in-swedish",
+      "title": "Turordningsregler – lagstiftning med konsekvenser eller spel för gallerierna?",
+      "authors": "Carl-Magnus Bjuggren, Martin Olsson, and Per Skedinger",
+      "venue": "Ekonomisk Debatt, Vol. 3, No. 3, 5–16, 2018",
+      "year": 2018,
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://www.nationalekonomi.se/wp-content/uploads/2018/04/46-3-cmbmops.pdf"
+        }
+      ],
+      "sort_key": "2018-090"
+    },
+    {
+      "section": "in-swedish",
+      "title": "Påverkar riskkapitalinvesteringar anställda och samhällsekonomin?",
+      "authors": "Martin Olsson and Joacim Tåg",
+      "venue": "Ekonomisk Debatt, Vol. 45, No. 8, 26–36, 2017",
+      "year": 2017,
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://www.ifn.se/media/3m3fr4g5/särtryck2017-27.pdf"
+        }
+      ],
+      "sort_key": "2017-090"
+    },
+    {
+      "section": "in-swedish",
+      "title": "Ökar anställningsskyddet sjukfrånvaron?",
+      "authors": "Martin Olsson",
+      "venue": "Ekonomisk Debatt, Vol. 35, No. 8, 31–41, 2009",
+      "year": 2009,
+      "links": [
+        {
+          "label": "PDF",
+          "url": "https://www.nationalekonomi.se/wp-content/uploads/2000/01/35-2-mo.pdf"
+        }
+      ],
+      "sort_key": "2009-090"
+    },
+    {
+      "section": "op-eds",
+      "title": "AI kommer slå hårdast mot kvinnor – och deras löner",
+      "authors": "Malin Gardberg, Fredrik Heyman, Martin Olsson, and Joacim Tåg",
+      "venue": "Dagens Nyheter, September 25, 2025",
+      "year": 2025,
+      "links": [
+        {
+          "label": "Link",
+          "url": "https://www.dn.se/debatt/ai-kommer-sla-hardast-mot-kvinnor-och-deras-loner/"
+        }
+      ],
+      "sort_key": "2025-090"
+    },
+    {
+      "section": "op-eds",
+      "title": "Så riskerar AI att öka klyftorna i samhället",
+      "authors": "Malin Gardberg, Fredrik Heyman, Martin Olsson, and Joacim Tåg",
+      "venue": "Dagens Industri, 6 September, 2024",
+      "year": 2024,
+      "links": [
+        {
+          "label": "Link",
+          "url": "https://www.di.se/debatt/sa-riskerar-ai-att-oka-klyftorna-i-samhallet/"
+        }
+      ],
+      "sort_key": "2024-090"
+    },
+    {
+      "section": "op-eds",
+      "title": "Dålig konkurrens på den europeiska fotbollsmarknaden",
+      "authors": "Pehr-Johan Norbäck, Martin Olsson, and Lars Persson",
+      "venue": "Dagens Industri, 2 maj, 2021",
+      "year": 2021,
+      "links": [
+        {
+          "label": "Link",
+          "url": "https://www.di.se/debatt/dalig-konkurrens-pa-den-europeiska-fotbollsmarknaden/"
+        }
+      ],
+      "sort_key": "2021-090"
+    },
+    {
+      "section": "blog-posts",
+      "title": "When Robots Enter the Workplace: How Automation Shapes Children’s Future Prospects",
+      "authors": "Fredrik Heyman and Martin Olsson",
+      "venue": "RFBerlin Economic Insight, April 2026",
+      "year": 2026,
+      "links": [
+        {
+          "label": "Link",
+          "url": "https://www.rfberlin.com/research-insights/when-robots-enter-the-workplace/"
+        }
+      ],
+      "sort_key": "2026-090"
+    },
+    {
+      "section": "blog-posts",
+      "title": "Children of Workers Impacted by Automation Are More Likely To Experience Lower Income Mobility",
+      "authors": "Fredrik Heyman and Martin Olsson",
+      "venue": "Chicago Booth, 27 April, 2023",
+      "year": 2023,
+      "links": [
+        {
+          "label": "Link",
+          "url": "https://www.promarket.org/2023/04/27/children-of-workers-impacted-by-automation-are-more-likely-to-experience-lower-income-mobility/"
+        }
+      ],
+      "sort_key": "2023-090"
+    },
+    {
+      "section": "blog-posts",
+      "title": "Economic Incentives, Home Production and Gender Identity Norms",
+      "authors": "Andrea Ichino, Martin Olsson, Barbara Petrongolo, and Peter Skogman Thoursie",
+      "venue": "VoxEu (2019), Austax Policy (2019), LSE Business Review Blog (2019)",
+      "year": 2019,
+      "links": [
+        {
+          "label": "VoxEU",
+          "url": "https://cepr.org/voxeu/columns/economic-incentives-home-production-and-gender-identity-norms"
+        },
+        {
+          "label": "Austax Policy",
+          "url": "https://www.austaxpolicy.com/economic-incentives-home-production-and-gender-identity-norms/"
+        },
+        {
+          "label": "LSE",
+          "url": "https://blogs.lse.ac.uk/businessreview/2019/07/29/can-economic-incentives-promote-a-more-equal-gender-division-of-house-chores/"
+        }
+      ],
+      "sort_key": "2019-090"
+    }
+  ]
+}
