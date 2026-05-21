@@ -172,11 +172,11 @@
       "authors": "Malin Gardberg, Fredrik Heyman, Martin Olsson, and Joacim Tåg",
       "venue": "Oxford Bulletin of Economics and Statistics",
       "year": 2025,
-      "status": "Accepted, 2026",
+      "status": "Published Online",
       "links": [
         {
-          "label": "Link",
-          "url": "https://www.ifn.se/en/publications/working-papers/2025/1534/"
+          "label": "DOI",
+          "url": "https://doi.org/10.1111/obes.70094"
         }
       ],
       "sort_key": "2026-090"
@@ -199,15 +199,20 @@
       "section": "work-in-progress",
       "title": "Long-Run Effects of Technological Change: The Impact of Automation and Robots on Intergenerational Mobility",
       "authors": "Fredrik Heyman and Martin Olsson",
-      "venue": "IFN Working Paper, No. 1443, 2022",
-      "year": 2022,
+      "venue": "The Economic Journal",
+      "year": 2026,
+      "status": "Conditional Accept",
       "links": [
         {
           "label": "Link",
           "url": "https://www.ifn.se/en/publications/working-papers/2022/1451/"
+        },
+        {
+          "label": "RFBerlin",
+          "url": "https://www.rfberlin.com/network-paper/long-run-effects-of-technological-change-the-impact-of-automation-on-intergenerational-mobility/"
         }
       ],
-      "sort_key": "2022-090"
+      "sort_key": "2026-090"
     },
     {
       "section": "in-swedish",
